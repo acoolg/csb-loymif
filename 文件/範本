@@ -6,11 +6,11 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>小學生交流區(新版)</title>
     <link rel="stylesheet" href="cool.css">
-    <link rel="shortcut icon" href="favicon (1).ico"/>
+    <link rel="shortcut icon" href="圖片/favicon (1).ico"/>
   </head>
   <body>
     <header>
-      <img src="標題2.png" width="100%" />
+      <img src="圖片/標題2.png" width="100%" />
     </header>
     <anv>
       <ul class="list">
@@ -21,16 +21,17 @@
           <a href="pg2.html".html" class="list-link" title="了解社會新聞">六双叒叕新聞</a>
         </il>
         <il>
-            <a href="pg3.html".html" class="list-link" title="漫畫社新聞">漫畫社新聞</a>
-          </il>
-          <il>
+            <a href="pg3.html" class="list-link" title="漫畫社新聞">漫畫社通知</a>
+        </il>
+        <il>
           <a href="error.html" class="list-link" title="看看最近頻道更新">老錢新影片</a>
-          </il>
+        </il>
       </ul>
     </anv>
     <div class="title">
         <h2>首頁</h2>
     </div>
+    
     <footer>
       <em>©此網站由Youtuber老錢大事典建立</em>
     </footer>
