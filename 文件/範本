@@ -29,6 +29,9 @@
         <il>
           <a href="login.html" class="list-link" title="登入">用有錢mail登入</a>
         </il>
+        <il>
+          <a href="tool.html" class="list-link" title="工具">工具</a>
+        </il>ㄋ
       </ul>
     </anv>
     <div class="title">
@@ -36,7 +39,7 @@
     </div>
     
     <footer>
-      <em>©此網站由Youtuber老錢大事典建立</em>
+      <p>©此網站由Youtuber老錢大事典建立</p>
     </footer>
   </body>
 </html>
